@@ -3,10 +3,12 @@ Implementación de aprendizaje automático en la predicción de diabetes.
 
 
 Problemas de salud en México
+
 Durante 2020, 92.4% de las muertes fueron debidas a enfermedades y problemas relacionados con la salud, siendo las enfermedades del corazón (20.2%), por la COVID-19
 (18.5%) y por diabetes mellitus ( 13.9%) las tres principales causas de muerte.
 
 Diabetes
+
 La diabetes mellitus (diabetes) es una enfermedad crónica que se presenta cuando el páncreas no secreta suficiente insulina o cuando el organismo no utiliza 
 eficazmente la insulina que produce. La insulina es una hormona que regula la concentración de glucosa en la sangre. Existen tres tipos principales de diabetes: 
 diabetes tipo 1, diabetes tipo 2 y diabetes gestacional que sucede durante el embarazo.
